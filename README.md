@@ -52,9 +52,6 @@ PAYSTACK_SECRET_KEY=your_paystack_secret_key
 NEXT_PUBLIC_PAYSTACK_PUBLIC_KEY=your_paystack_public_key
 OPENAI_API_KEY=your_openai_api_key
 
-yaml
-Copy code
-
 ---
 
 ## 🪄 Installation
@@ -88,7 +85,7 @@ subscriptions
  Mobile push notifications
 
  EduMind mobile app launch
-
+```
 👨🏽‍💻 Author
 Karl Seyram (DJ VALENCY)
 Pentester | AI Engineer | EduMind Creator 🇬🇭
